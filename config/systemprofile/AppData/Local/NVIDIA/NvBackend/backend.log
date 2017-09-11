@@ -1,0 +1,12 @@
+0104-18:20:30.445[F]: START UPDT
+0104-18:20:30.445[I]: Optimus: not installed
+0104-18:20:30.445[I]: NVIDIA Update: installed
+0104-18:20:30.445[I]: GeforceExperience: not installed
+0104-18:20:30.445[F]: Cannot load main PS file: Empty XML file in src\xml_parse.cpp:218
+0104-18:20:30.445[I]: Installation thread started.
+0104-18:21:30.450[I]: PolicyTrigger called.
+0104-18:21:30.450[I]: Going to collect SHIM.
+0104-18:21:41.737[E]: updtSHIMManager::DRSApplicationCache::DRSApplicationCache: cannot create object, no DRS settings will be present: NvAPI_Initialize failed with -1 in src\NvAPI_Support.cpp:24
+0104-18:21:41.737[W]: Cannot read ClientData from the registry.
+0104-18:21:42.112[I]: ParseSugar: software updates parsed
+0104-18:21:42.112[I]: Exiting DoWork.

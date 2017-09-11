@@ -1,0 +1,1198 @@
+dropbox: loading python
+dropbox: initializing interpreter
+dropbox: setting program path 'C:\Program Files (x86)\Dropbox\Client_34.4.20\Dropbox.exe'
+dropbox: setting home path 'C:\Program Files (x86)\Dropbox\Client_34.4.20'
+dropbox: setting python path 'C:\Program Files (x86)\Dropbox\Client_34.4.20;C:\Program Files (x86)\Dropbox\Client_34.4.20\python-packages.zip'
+dropbox: python initialized
+dropbox: running entry point
+dropbox: setting args
+dropbox: applying overrides
+dropbox: running script
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\tornado.speedups.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\cryptography.hazmat.bindings._constant_time.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\cryptography.hazmat.bindings._openssl.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\cryptography.hazmat.bindings._padding.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winffi.crt.compiled._winffi_crt.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\psutil._psutil_windows.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\win32com.shell.shell.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winffi.kernel32.compiled._winffi_kernel32.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\cpuid.compiled._cpuid.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winshell.compiled._winshell.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winenumhandles.compiled._WinEnumHandles.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winscreenshot.compiled._CaptureScreenshot.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtCore.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtGui.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtWidgets.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtWebEngineWidgets.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtWebChannel.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtNetwork.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtWebKit.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtWebKitWidgets.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtPrintSupport.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winrpcserver.compiled._RPCServer.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winffi.user32.compiled._winffi_user32.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\windisplaytoast.compiled._DisplayToast.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winffi.iphlpapi.compiled._winffi_iphlpapi.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winffi.winerror.compiled._winffi_winerror.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winffi.wininet.compiled._winffi_wininet.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\dropbox.infinite.win.compiled._driverinstallation.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\PyQt5.QtWinExtras.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\winverifysignature.compiled._VerifySignature.pyd'
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\librsyncffi.compiled._librsyncffi.pyd'
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\enterprise_data.compiled._enterprise_data.pyd'
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+dropbox: load extension 'C:\\Program Files (x86)\\Dropbox\\Client_34.4.20\\dropbox.infinite.win.compiled._driverinstallation_wow64.pyd'
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment
+Traceback (most recent call last):
+  File "dropbox\callbacks.pyc", line 116, in run_handlers
+  File "dropbox\client\high_trace.pyc", line 1862, in send_line
+  File "dropbox\client\high_trace.pyc", line 1867, in encrypt_blob
+TypeError: must be convertible to a buffer, not _TraceSegment

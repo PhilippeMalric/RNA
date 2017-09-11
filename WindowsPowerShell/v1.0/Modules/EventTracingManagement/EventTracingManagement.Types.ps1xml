@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Types>
+  <Type>
+    <Name>Microsoft.Management.Infrastructure.CimInstance#ROOT/Microsoft/Windows/EventTracingManagement/MSFT_EtwTraceProvider</Name>
+    <Members>
+      <ScriptProperty>
+        <Name>Level</Name>
+        <GetScriptBlock>
+          $this.PSBase.CimInstanceProperties['Level'].Value
+        </GetScriptBlock>
+      </ScriptProperty>
+      <ScriptProperty>
+        <Name>MatchAnyKeyword</Name>
+        <GetScriptBlock>
+          "0x{0:X0}" -f $this.PSBase.CimInstanceProperties['MatchAnyKeyword'].Value
+        </GetScriptBlock>
+      </ScriptProperty>
+      <ScriptProperty>
+        <Name>MatchAllKeyword</Name>
+        <GetScriptBlock>
+            "0x{0:X0}" -f $this.PSBase.CimInstanceProperties['MatchAllKeyword'].Value
+        </GetScriptBlock>
+      </ScriptProperty>
+      <ScriptProperty>
+        <Name>Property</Name>
+        <GetScriptBlock>
+          $this.PSBase.CimInstanceProperties['Property'].Value
+        </GetScriptBlock>
+      </ScriptProperty>
+    </Members>
+  </Type>
+   <Type>
+    <Name>Microsoft.Management.Infrastructure.CimInstance#ROOT/Microsoft/Windows/EventTracingManagement/MSFT_EtwTraceSession</Name>
+    <Members>
+      <ScriptProperty>
+        <Name>LogFileMode</Name>
+        <GetScriptBlock>
+           "0x{0:X0}" -f $this.PSBase.CimInstanceProperties['LogFileMode'].Value
+        </GetScriptBlock>
+      </ScriptProperty>
+    </Members>
+  </Type>
+     <Type>
+    <Name>Microsoft.Management.Infrastructure.CimInstance#ROOT/Microsoft/Windows/EventTracingManagement/MSFT_AutologgerConfig</Name>
+    <Members>
+      <ScriptProperty>
+        <Name>LogFileMode</Name>
+        <GetScriptBlock>
+           "0x{0:X0}" -f $this.PSBase.CimInstanceProperties['LogFileMode'].Value
+        </GetScriptBlock>
+      </ScriptProperty>
+    </Members>
+  </Type>
+</Types>

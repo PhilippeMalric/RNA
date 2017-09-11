@@ -1,0 +1,22 @@
+1,"fusion","GAC",0
+1,"WinRT","NotApp",1
+2,"Microsoft.PowerShell.ConsoleHost, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+2,"System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+3,"System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\Windows\assembly\NativeImages_v4.0.30319_32\System\603a3bab60d64169412e83e06d7bac68\System.ni.dll",0
+3,"System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Core\ef8d0d1ee6432515fff7f11d91eaf368\System.Core.ni.dll",0
+3,"System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Xml\a771d2428d6b5c8ca9ab6c393e26ee3c\System.Xml.ni.dll",0
+3,"System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Numerics\c8e6333b12f5ea1252b6d7800e7931de\System.Numerics.ni.dll",0
+3,"System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Dired13b18a9#\9ee59aa8f7265960e99357e3e53af95b\System.DirectoryServices.ni.dll",0
+3,"System.Management, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Management\fb496fe224f427f206ec5f4bc0d18aa3\System.Management.ni.dll",0
+3,"System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Data\c93c27a2837219668b8a45fb74f0ad34\System.Data.ni.dll",0
+2,"Microsoft.PowerShell.Security, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+2,"System.Transactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",0
+3,"System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\Windows\assembly\NativeImages_v4.0.30319_32\System.Configuration\3d80ae4a3a0aa7f6933fbe8c5922a473\System.Configuration.ni.dll",0
+2,"Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",0
+2,"Microsoft.AppV.AppvClientComConsumer, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+2,"Microsoft.Windows.Appx.PackageManager.Commands, Version=10.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35",0
+2,"C:\Windows\system32\WinMetadata\Windows.Management.winmd",1
+2,"C:\Windows\system32\WinMetadata\Windows.Foundation.winmd",1
+2,"System.Runtime, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",0
+2,"C:\Windows\system32\WinMetadata\Windows.ApplicationModel.winmd",1
+2,"C:\Windows\system32\WinMetadata\Windows.System.winmd",1

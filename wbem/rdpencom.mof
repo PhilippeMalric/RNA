@@ -1,0 +1,39 @@
+#pragma classflags("forceupdate")
+
+Qualifier Description : ToSubClass Amended; 
+Qualifier Values : ToSubClass Amended; 
+
+#pragma namespace("\\\\.\\root\\WMI")
+//
+// WPP Generated File
+// PDB:  c:\vbl_ts.obj.x86fre\TermSrv\rdpenc\lib\objfre\i386\rdpencom.pdb
+// PDB:  Last Updated :2006-5-12:0:15:41:64 (UTC) [binplace]
+//
+
+//ModuleName = RDPEncComTrace	 (Init called in Function DllMain)
+[Dynamic,
+ Description("RDPEncComTrace"),
+ guid("{D4199645-41BE-4fd5-9D71-A612C508FDC7}"),
+ locale("MS\\0x409")]
+class RDPCollabSharerTrace : EventTrace
+{
+    [Description ("Enable Flags") ,
+        ValueDescriptions{
+             "TS_TRACE_LEVEL_NRM Flag",
+             "TS_TRACE_LEVEL_ERROR Flag",
+             "TS_TRACE_LEVEL_ASSERT Flag"},
+        DefineValues{
+             "TS_TRACE_LEVEL_NRM",
+             "TS_TRACE_LEVEL_ERROR",
+             "TS_TRACE_LEVEL_ASSERT"},
+        Values{
+             "TS_TRACE_LEVEL_NRM",
+             "TS_TRACE_LEVEL_ERROR",
+             "TS_TRACE_LEVEL_ASSERT"},
+        ValueMap{
+             "0x00000001",
+             "0x00000002",
+             "0x00000004"}
+    ]
+    uint32 Flags;
+};
